@@ -11,3 +11,5 @@ add a tagv1.0
 create  a branch named feature
 
 feature branch fixed 1
+
+feature branch fixed 2
