@@ -12,4 +12,4 @@ create  a branch named feature
 
 feature branch fixed 1
 
-feature branch fixed 2 3
+feature branch fixed 2 3 4
